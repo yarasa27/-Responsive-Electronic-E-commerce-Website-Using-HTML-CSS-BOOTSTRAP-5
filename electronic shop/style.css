@@ -175,3 +175,28 @@
     color: black;
     border: none;
 }
+@media screen and (max-width:1200px) {
+    .home{
+        height: 90vh;
+    }
+}
+@media screen and (max-width:799px) {
+    .home{
+        height: 140vh;
+    }
+}
+@media screen and (max-width:550px) {
+    .home{
+        height: 110vh;
+    }
+}
+@media screen and (max-width:420px) {
+    .content h1{
+        font-size: 45px;
+    }
+}
+@media screen and (max-width:320px) {
+    .content h1{
+        font-size: 36px;
+    }
+}
