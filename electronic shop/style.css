@@ -414,3 +414,10 @@
 }
 
 /* offer */
+#offer{
+    margin-top: 100px;
+}
+#offer i{
+    font-size: 32px;
+    color: black;
+}
